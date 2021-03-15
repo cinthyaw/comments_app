@@ -1,0 +1,39 @@
+    .red {
+        display: block;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+      }
+
+      .red2 {
+        display: none;
+      }
+
+      .comment-input{
+          width: 80%;
+          margin-top: 5vh;
+          align-self: center;
+      }
+
+      .comment-button{
+          align-self: center;
+          padding-top: 20px;
+      }
+
+      ul {
+          border-left: 1px solid #efefef;
+          list-style: none;
+          padding-left: 0.5rem;
+      }
+
+
+      .full-width {
+          width: 100%;
+      }
+
+      strong {
+          background: #efefef;
+          padding: 0.4rem;
+          display: block;
+          margin-top: 0.5rem;
+      }
