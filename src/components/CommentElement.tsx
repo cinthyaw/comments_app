@@ -5,7 +5,6 @@ import { styled } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Container from '@material-ui/core/Container';
 import '../css/styles.css';
-import UserCommentsCard from './usersComments';
 import { Comment } from '../typings/Comment';
 import { TextareaAutosize, TextField } from '@material-ui/core';
 
